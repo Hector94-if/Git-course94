@@ -8,4 +8,6 @@ Aprendizado melhorando.
 
 Saiba mais em [willianjusten.com.br](http://willianjusten.com.br) 
 
-A pedido do intrutor do curso: Gostou do curso ? Quer mais ? Ajude com uma doação, até um café é valido =) 
+A pedido do intrutor do curso: Gostou do curso ? Quer mais ? Ajude com uma doação, até um café é valido =)
+
+Subindo para o repositório GitHub após modificar o arquivo - testando   
